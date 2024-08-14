@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__
+data
+logs*
+imgs*
+tmp*
+saved_videos*
+saved_models*
+buffer
+*.mp4
+*.pkl
